@@ -12,6 +12,7 @@ namespace FirstProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Other words");
+            Console.WriteLine("Other words!");
             Console.ReadLine();
         }
     }
