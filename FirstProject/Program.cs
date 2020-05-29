@@ -10,8 +10,8 @@ namespace FirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет Матвей!");
-
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Other words");
             Console.ReadLine();
         }
     }
